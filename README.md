@@ -1,4 +1,4 @@
-# N20 Motor Gear Mount
+# N20 Motor Gear Mount + pinecil holder
 
 Worked on the motor mount.
 
@@ -28,3 +28,22 @@ I'm currently building a line follower robot, and I needed a reliable way to mou
 This mount will be used in my line follower robot to hold the drive motors in place. A rigid motor mount helps reduce unwanted movement and keeps wheel alignment consistent, which is important for accurate line following.
 
 Simple part, but a necessary one. Getting the basics right saves a lot of headaches later in the build.
+
+# PINECIL CASE
+Here is the case 
+![](image-3.png)
+I made this pinecil case that i was thnking of making for a long time
+as my pinecil stays just on desk
+that doesnt look good as it sometimes fall and stuff
+
+![image](https://stasis.hackclub-assets.com/images/1782817989105-6c6vgl.png)
+here is the render of my part
+
+
+![image](https://stasis.hackclub-assets.com/images/1782818319545-hiffup.png)
+
+![pinecil case v1](https://stasis.hackclub-assets.com/images/1782818367427-387nll.png)
+
+took me long time to render this 
+This took a while to learn about 
+as it was really confusing getting scenes and all those
