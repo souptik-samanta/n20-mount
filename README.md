@@ -75,3 +75,9 @@ https://www.youtube.com/shorts/cXh-5Utj3hs
 The camera quality isn't amazing, but it shows the design and fitment clearly.
 
 Overall, these are fairly simple projects, but they solve real problems for my robot builds and electronics workspace while helping me improve my CAD and rendering skills.
+
+#  BOM
+
+| Material | Amount | Price |
+| :--- | :--- | :--- | 
+| PLA Plastic | 120 g | Free | 
